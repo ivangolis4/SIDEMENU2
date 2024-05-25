@@ -1,0 +1,16 @@
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\bin\Debug\net8.0-windows\OwnApplication.exe
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\bin\Debug\net8.0-windows\OwnApplication.deps.json
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\bin\Debug\net8.0-windows\OwnApplication.runtimeconfig.json
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\bin\Debug\net8.0-windows\OwnApplication.dll
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\bin\Debug\net8.0-windows\OwnApplication.pdb
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.Form1.resources
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.csproj.GenerateResource.cache
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.AssemblyInfoInputs.cache
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.AssemblyInfo.cs
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.csproj.CoreCompileInputs.cache
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.dll
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\refint\OwnApplication.dll
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.pdb
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\OwnApplication.genruntimeconfig.cache
+C:\Users\XoS\source\repos\OwnApplication\OwnApplication\obj\Debug\net8.0-windows\ref\OwnApplication.dll
